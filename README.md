@@ -63,7 +63,7 @@ The dashboard supports job-title filtering, interactive visual selections, and d
 
 The recording demonstrates the dashboard and its interactive features. **The demonstration video contains no audio.**
 
-[Watch or download the silent dashboard demonstration](images/Project_1_recording_silent.mp4)
+[Watch or download the silent dashboard demonstration](images/Project_1_recording.mp4)
 
 ## Explore the Project
 
